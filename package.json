@@ -1,0 +1,23 @@
+{
+  "name": "libs-and-alternatives",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html"
+  },
+  "author": "Carlos Balladares",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^3.9.0",
+    "components": "^0.1.0",
+    "formik": "^1.4.2",
+    "informed": "^1.10.12",
+    "parcel": "^1.11.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "recompact": "^3.4.0",
+    "yup": "^0.26.7"
+  }
+}
